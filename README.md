@@ -1,6 +1,6 @@
 # Employee Directory ![<Test>](https://img.shields.io/badge/License-MIT-blue.svg) 
 
-Project Link: 
+Project Link: https://longhuynh741.github.io/DirectoryEmployees/.
 
 <hr>
 
